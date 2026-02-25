@@ -1,0 +1,23 @@
+#box
+{
+ 
+}
+#box2
+{
+    
+    background-color: brown;
+    color: black;
+    display:inline-block;
+    
+}
+
+#submit-btn
+{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+}
+
+head , body
+{
+}

@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#form-group
+{
+    background-color: antiquewhite;
+    justify-content: "center";
+    height: 75vh;
+    width: 50vw;
+    margin-left: 25%;
+    margin-top: 10px;
+    border-radius: 10px;
+    border-width: 2;
+
+}
+#content
+{
+    margin-left: 25px;
+}
+#head-title
+{
+    font-weight: bold;
+    margin: 10px;
+
+}
+#inputs
+{
+    margin-top: 25px;
+}
+.input-container
+{
+    height: 5vh;
+    width: 25vw;
+    background-color :burlywood;
+    border-radius: 10px;
+    border-width: 0;
+    margin: 10px;
+
+}
